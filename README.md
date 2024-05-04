@@ -6,7 +6,7 @@
 
 **Steps:**
 1. Clone the repository:
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Dakshatha0/Cardiovascular-Disease-Detection-using-Machine-Learning.git
 
 2. Install the requirements
 pip install -r requirements.txt
